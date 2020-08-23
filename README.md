@@ -25,3 +25,10 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+1. Qué Framework se usó y bajo qué lenguaje
+    Angular, utilizo php, HTML, y CSS
+2. La versión del framework 
+    Angular: 9.1.12
+3. A continuación escribir el o los  pasos para levantar el proyecto en una máquina local. 
+    Como se utilizo Angular se utilizo el comando ng server para ejcutarlo y subir el proyecto a la maquina local.
